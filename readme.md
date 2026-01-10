@@ -4,6 +4,12 @@
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![GitHub Stars](https://img.shields.io/github/stars/Mohannadx101/ElClasico?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Mohannadx101/ElClasico?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/Mohannadx101/ElClasico)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mohannadx101/ElClasico)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Mohannadx101/ElClasico)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Mohannadx101/ElClasico)
 
 A comprehensive full-stack web application for managing football tournaments, teams, live matches, and interactive games. Built with modern technologies and designed for football enthusiasts, tournament organizers, and team managers.
 
