@@ -10,6 +10,8 @@
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mohannadx101/ElClasico)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/Mohannadx101/ElClasico)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Mohannadx101/ElClasico)
+![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 A comprehensive full-stack web application for managing football tournaments, teams, live matches, and interactive games. Built with modern technologies and designed for football enthusiasts, tournament organizers, and team managers.
 
