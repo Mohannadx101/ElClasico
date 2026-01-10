@@ -684,14 +684,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@mohannadx101](https://github.com/mohannadx101)
+- Email: Mohannadx101@gmail.com
 
 ---
 
 ## 🙏 Acknowledgments
 
-- [Football-Data.org](https://www.football-data.org/) for live match API
+- [API-Football.com](https://www.api-football.com/) for live match API
 - [Open Trivia Database](https://opentdb.com/) for trivia questions
 - React community for excellent documentation
 - MongoDB for robust database solution
@@ -701,24 +701,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For issues, questions, or suggestions:
-- **Open an Issue**: [GitHub Issues](https://github.com/yourusername/ElClasico/issues)
-- **Email**: support@elclasico.com
-- **Documentation**: See [Wiki](https://github.com/yourusername/ElClasico/wiki)
+- **Open an Issue**: [GitHub Issues](https://github.com/mohannadx101/ElClasico/issues)
+- **Email**: mohannadx101@gmail.com
 
 ---
 
 ## 🗺️ Roadmap
-
-Future enhancements planned:
-- [ ] Real-time WebSocket integration for live match updates
-- [ ] Player statistics and performance tracking
-- [ ] Advanced analytics and match predictions
-- [ ] Mobile app (React Native)
-- [ ] Email notifications for team approvals
-- [ ] Tournament templates and presets
-- [ ] Social media integration
-- [ ] Multi-language support
-
+**Postponed project**
 ---
-
-**Made with ⚽ and ❤️ for football enthusiasts worldwide**
